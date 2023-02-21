@@ -1,0 +1,7 @@
+{
+    "jwtPrivateKeyMikro": "Ludens_57!",
+    "PORT": 3000,
+    "REDIS": {
+        "PASS": "H3soy@m_57"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "host": "registry.teknologi-nusantara.com",
+    "name": "austeread/api",
+    "version": "latest",
+    "mode": "production"
+}
